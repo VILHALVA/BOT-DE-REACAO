@@ -14,4 +14,4 @@ Este bot é um assistente automatizado para grupos do Telegram que reage a mensa
 3. **Configuração Flexível:** A lista de palavras-chave e reações correspondentes é configurável por meio de um arquivo JSON chamado "REACAO.json".
 
 ## COMPRAR:
-- [🤑GOSTOU DESSE PROJETO? CLIQUE AQUI PARA COMPRAR](https://github.com/VILHALVA/VILHALVA/blob/main/FREELANCER/README.md)
+- [🤑GOSTOU DESSE PROJETO? CLIQUE AQUI PARA COMPRAR.](https://github.com/VILHALVA/VILHALVA/blob/main/FREELANCER/README.md)
