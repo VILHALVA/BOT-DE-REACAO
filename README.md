@@ -1,7 +1,8 @@
 # BOT DE REACAO
 🛑ESSE É UM BOT DO TELEGRAM QUE REAJE AUTOMATICAMENTE A UMA PALAVRA CHAVE EM UMA CONVERSA!
 
-<img src="FOTO.png" align="center" width="500"> <br>
+<img src="./IMAGENS/FOTO_1.png" align="center" width="500"> <br>
+<img src="./IMAGENS/FOTO_2.png" align="center" width="500"> <br>
 
 ## DESCRIÇÃO:
 Este bot é um assistente automatizado para grupos do Telegram que reage a mensagens contendo palavras-chave específicas com emojis correspondentes. 
